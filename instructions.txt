@@ -1,0 +1,4 @@
+when you first open the game use your mouse to look around for the battle ground 
+use w to zoom in 
+use s to zoom out
+uses mouse to pan
